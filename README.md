@@ -1,4 +1,4 @@
-Gmail to json
+Gmail to JSON
 =====
  
 Command line PHP tool for exporting all Inbox in Gmail to separate .JSON text files
