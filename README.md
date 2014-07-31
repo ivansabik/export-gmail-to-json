@@ -1,9 +1,17 @@
 Gmail to json
 =====
+ 
+Command line PHP tool for exporting all Inbox in Gmail to separate .JSON text files
 
-PHP 5
-Command line access to tty
-PHP IMAP
+Requirements:
 
-Export to JSON files
-Export to MongoDB 
+- Command line access to PHP
+- IMAP configured in PHP cli 
+
+Usage:
+
+- ```php gmail-json.php```
+- Write login credentials
+- Wait for the fun
+
+Will output files to the directory ./json
