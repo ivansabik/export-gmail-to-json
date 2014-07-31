@@ -1,4 +1,9 @@
-gmail-json
-==========
+Gmail to json
+=====
 
-Backup Gmail to JSON
+PHP 5
+Command line access to tty
+PHP IMAP
+
+Export to JSON files
+Export to MongoDB 
