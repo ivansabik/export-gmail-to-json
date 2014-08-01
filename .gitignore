@@ -2,4 +2,4 @@ vendor
 composer.phar
 composer.lock
 *~
-json/*
+gmail-backup/*
