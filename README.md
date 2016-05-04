@@ -34,3 +34,7 @@ db.gmail.ensureIndex( { from: "text" } )
 db.gmail.ensureIndex( { subject: "text" } )
 db.gmail.ensureIndex( { message: "text" } )
 ```
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/ivansabik/export-gmail-to-json/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
